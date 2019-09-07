@@ -7,7 +7,8 @@ Density-based spatial clustering of applications with noise (DBSCAN) is a data c
 
 This algorithm consist of gridsearch function to find you the best parameters for your DBSCAN algorithm by calculating F1 score for each instances and finally selecting the best score generated parameters fully autonomously.
 
-
+Obtained best precision_score- 0.9738562091503267
+Best parameters selected by gridsearch-{'metric': 'euclidean', 'min_samples': 2, 'eps': 0.2}
 
 Dataset used- IRIS dataset(150 samples)
 Sklearn_documentation DBSCAN-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
