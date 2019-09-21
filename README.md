@@ -16,3 +16,9 @@ Sklearn_documentation for GRIDSEARCHCv-https://scikit-learn.org/stable/modules/g
 
 
 ![Screenshot from 2019-09-07 18-11-23](https://user-images.githubusercontent.com/24733068/64472022-b945b480-d19b-11e9-9c25-4905ffabd622.png)
+
+
+## Sklearn Cheat Sheet
+
+![sklearn](https://user-images.githubusercontent.com/24733068/65365969-a33af800-dc61-11e9-9721-fe0a2517a72d.png)
+
